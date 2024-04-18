@@ -13,7 +13,7 @@ To log into your VM, you will need to use the following credentials:
 
 Once logged in you will find a link on the desktop to Tableau Online... Click the Icon:
 <p align="center">
-  <img src="https://i.ibb.co/SdvPnh0/Screenshot-2024-04-17-at-1-04-23-PM.png" alt="Tableau Cloud Login" width="25%" />
+  <img src="https://i.ibb.co/k4ZX07K/loginicon.png" alt="Tableau Cloud Login" width="25%" />
 </p>
 
 Tableau Cloud Credentials:
@@ -107,6 +107,7 @@ audience more efficiently.
    <p align="center">
   <img src="https://i.ibb.co/xCY1sPj/datasourcecheck.png" alt="Tableau Cloud Login" width="75%" />
 </p>
+
    - Click into **Tableau Pulse**.
   <p align="center">
   <img src="https://i.ibb.co/qn9VQ4B/datasourcecheck-V2.jpg" alt="Tableau Cloud Login" width="75%" />
@@ -121,6 +122,7 @@ audience more efficiently.
     <p align="center">
   <img src="https://i.ibb.co/5rXrxrj/Select-Data-Source.jpg" alt="Tableau Cloud Login" width="100%" />
 </p>
+
    - **Metric Definition Setup**:
      - **Name**: Spend
      - **Description**: The running total production spend across all artists.
@@ -130,27 +132,33 @@ audience more efficiently.
      - **Time dimension**: Date
      - **Compared to**: Leave as is
      - **Adjustable metrics filters**: Add all options: Artist Name, Campaign Type, Genre, Geographical Location, Listener Age Group, Listener Gender, Song Name
-     <div style="display: flex; width: 100%;">
-    <div style="width: calc(50% - 5px); padding-right: 5px;">
-        <img src="https://i.ibb.co/YZ3VWy6/metriccreate.png" alt="Tableau Cloud Login" width="100%" />
-    </div>
-    <div style="width: calc(50% - 5px); padding-left: 5px;">
-        <img src="https://i.ibb.co/X7YSQXJ/Metriccreate2.png" alt="Tableau Cloud Login" width="100%" />
-    </div>
-</div>
+<table width="100%" cellpadding="0" cellspacing="0">
+    <tr>
+        <td style="width: 50%; padding-right: 5px;">
+            <img src="https://i.ibb.co/YZ3VWy6/metriccreate.png" alt="Tableau Cloud Login" width="100%" />
+        </td>
+        <td style="width: 50%; padding-left: 5px;">
+            <img src="https://i.ibb.co/X7YSQXJ/Metriccreate2.png" alt="Tableau Cloud Login" width="100%" />
+        </td>
+    </tr>
+</table>
+
    - Click into the “Insights” tab.
     <p align="center">
   <img src="https://i.ibb.co/N7dmSDm/insights.jpg" alt="Tableau Cloud Login" width="50%" />
 </p>
+
    - Change the option for ‘Value going up’ to “Unfavorable”.
     <p align="center">
   <img src="https://i.ibb.co/YPTHtf1/insights2.jpg" alt="Tableau Cloud Login" width="35%" />
 </p>
+
    - Note Insight Types. If you would like to learn more about the insight types hover over the 'i' icon or visit our informational page on [Insight Types](https://help.tableau.com/current/api/rest_api/en-us/REST/rest_api_ref_pulse.htm#insight-types)
 
     <p align="center">
   <img src="https://i.ibb.co/ZfFtY8J/insights-3.png" alt="Tableau Cloud Login" width="35%" />
 </p>
+
    - Click on **Save Definition**.
 
 <br>
@@ -159,10 +167,12 @@ audience more efficiently.
     <p align="center">
   <img src="https://i.ibb.co/prRsSjJ/follow.jpg" alt="Tableau Cloud Login" width="100%" />
 </p>
+
    - Click **Breakdown**.
     <p align="center">
   <img src="https://i.ibb.co/3zwz28k/breakdown.jpg" alt="Tableau Cloud Login" width="100%" />
 </p>
+
       - Notice the listener age group and analyze breakdown.
       - Click into Genre and analyze breakdown.
       - Click into Geographical Location and analyze breakdown.
@@ -171,8 +181,10 @@ audience more efficiently.
       <p align="center">
   <img src="https://i.ibb.co/NVycMnw/question1.jpg" alt="Tableau Cloud Login" width="90%" />
 </p>
+
      - Click on “Which Campaign Type decreased the most?” and check out the answer.
      - Click on “ASK” and type “Is there a new trend?”
+      
       <p align="center">
   <img src="https://i.ibb.co/mDrrjyz/ask.jpg" alt="Tableau Cloud Login" width="90%" />
 </p>
@@ -189,7 +201,13 @@ audience more efficiently.
 </p>
      - Click **blue checkmark** to make the adjustment.
      - Follow the new related metric you just created by clicking **"Follow"**.
+     <p align="center">
+  <img src="https://i.ibb.co/z4BJ0dk/followagain.jpg" alt="Tableau Cloud Login" width="100%" />
+</p>
      - Click back to “followed metrics”.
+     <p align="center">
+  <img src="https://i.ibb.co/rs2nLJ6/backtometrics.jpg" alt="Tableau Cloud Login" width="75%" />
+</p>
 
 ## Bonus
 Create more metrics and keep exploring. Download counts, engagement rate, chart positions, playlist adds, reach, etc., can all have similar click paths with similar filters.
@@ -202,23 +220,71 @@ You've rocked the music world by producing an EP, and now it's time to amp up yo
 
 ## Publish a Data Source using Tableau Cloud
 - Navigate back to **Tableau Cloud** from **Tableau Pulse**.
+<p align="center">
+  <img src="https://i.ibb.co/FqnDvvC/backtocloud.jpg" alt="Tableau Cloud Login" width="75%" />
+</p>
 - Click **Explore**.
+<p align="center">
+  <img src="https://i.ibb.co/wgRNsKJ/clickexplore.jpg" alt="Tableau Cloud Login" width="20%" />
+</p>
 - Select **New > Published datasource**.
+<p align="center">
+  <img src="https://i.ibb.co/QmThc1W/publisheddatasource.jpg" alt="Tableau Cloud Login" width="75%" />
+</p>
 - Note all the options for connectors.
-- Click on **"Files"**.
+- Click on **"Files" > "Upload from Computer"**
+<p align="center">
+  <img src="https://i.ibb.co/0CVQv5q/connecttodatawindow.jpg" alt="Tableau Cloud Login" width="100%" />
+</p>
 - Locate the data files in the desktop folder.
-- Drag and drop or upload the file "Vendor Sponsor and ROI.csv" from the desktop folder.
+<table width="100%" cellpadding="0" cellspacing="0">
+    <tr>
+        <td style="width: 50%; padding-right: 5px;">
+            <img src="https://i.ibb.co/VC9TJrz/festivaldatafolder.jpg" alt="Tableau Cloud Login" width="100%" />
+        </td>
+        <td style="width: 50%; padding-left: 5px;">
+            <img src="https://i.ibb.co/M8N5w1Z/festivaldatafolder2.jpg" alt="Tableau Cloud Login" width="100%" />
+        </td>
+    </tr>
+</table>
 - Click **File > Publish**.
-- Publish your data into your **DataDazzler Folder** > Carrot dropdown to **"Exercise 3"**.
+    <p align="center">
+  <img src="https://i.ibb.co/gZq3RCx/publish.jpg" alt="Tableau Cloud Login" width="40%" />
+</p>
+- Publish your data into your **DataDazzler Folder** > Carrot dropdown to **"Exercise 3"**. Keep the name "Vendor Sponsor and ROI". Press **Publish**
+    <p align="center">
+  <img src="https://i.ibb.co/mG0sDFC/publish2.jpg" alt="Tableau Cloud Login" width="40%" />
+</p>
+- After publishing click "Close"
+- File > Close
 
 ## Create a Metric from The Data Source
 - Click back into **Tableau Pulse**.
 - Click **"New Metric"**.
+    <p align="center">
+  <img src="https://i.ibb.co/CV850vd/CREATEMETRICdefinition.jpg" alt="Tableau Cloud Login" width="100%" />
+</p>
 - Choose the **"Vendor Sponsor and ROI"** data source that you published into the Exercise 3 folder.
+    <p align="center">
+  <img src="https://i.ibb.co/s6289VS/selectdatasource2.jpg" alt="Tableau Cloud Login" width="75%" />
+</p>
 - Set up a new metric using what you learned from Exercise 2:
   - Choose a focus such as **Investment, ROI, or Sales/Engagement** - name the metric with your initials.
   - Add all filters, or have the audience choose.
+<table width="100%" cellpadding="0" cellspacing="0">
+    <tr>
+        <td style="width: 50%; padding-right: 5px;">
+            <img src="https://i.ibb.co/RDDvkQ1/createmetric5.png" alt="Tableau Cloud Login" width="100%" />
+        </td>
+        <td style="width: 50%; padding-left: 5px;">
+            <img src="https://i.ibb.co/ZXhkR3C/createmetric6.png" alt="Tableau Cloud Login" width="100%" />
+        </td>
+    </tr>
+</table>
 - **Important**: Be sure to **Follow** any of the metrics you create. Many others will also be creating metrics, so it could get crowded at the moment. Name metrics with your initials to keep them organized.
+<p align="center">
+  <img src="https://i.ibb.co/kcVQp5y/digest.png" alt="Tableau Cloud Login" width="100%" />
+</p>
 
 ### Note
 This exercise requires careful attention to detail and understanding of data handling in Tableau. Make sure you follow the steps closely and use your new skills to enhance the festival planning process.
