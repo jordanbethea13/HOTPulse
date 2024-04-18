@@ -130,12 +130,7 @@ audience more efficiently.
      - **Time dimension**: Date
      - **Compared to**: Leave as is
      - **Adjustable metrics filters**: Add all options: Artist Name, Campaign Type, Genre, Geographical Location, Listener Age Group, Listener Gender, Song Name
-   - Click into the “Insights” tab.
-   - Change the option for ‘Value going up’ to “Favorable”.
-   - Note Insight Types.
-   - Save Definition.
-
-<div style="display: flex; width: 100%;">
+     <div style="display: flex; width: 100%;">
     <div style="width: calc(50% - 5px); padding-right: 5px;">
         <img src="https://i.ibb.co/YZ3VWy6/metriccreate.png" alt="Tableau Cloud Login" width="100%" />
     </div>
@@ -143,24 +138,57 @@ audience more efficiently.
         <img src="https://i.ibb.co/X7YSQXJ/Metriccreate2.png" alt="Tableau Cloud Login" width="100%" />
     </div>
 </div>
+   - Click into the “Insights” tab.
+    <p align="center">
+  <img src="https://i.ibb.co/N7dmSDm/insights.jpg" alt="Tableau Cloud Login" width="50%" />
+</p>
+   - Change the option for ‘Value going up’ to “Unfavorable”.
+    <p align="center">
+  <img src="https://i.ibb.co/YPTHtf1/insights2.jpg" alt="Tableau Cloud Login" width="35%" />
+</p>
+   - Note Insight Types. If you would like to learn more about the insight types hover over the 'i' icon or visit our informational page on [Insight Types](https://help.tableau.com/current/api/rest_api/en-us/REST/rest_api_ref_pulse.htm#insight-types)
 
+    <p align="center">
+  <img src="https://i.ibb.co/ZfFtY8J/insights-3.png" alt="Tableau Cloud Login" width="35%" />
+</p>
+   - Click on **Save Definition**.
 
+<br>
 3. **Follow, Adjust, and Ask**
    - **Follow the Spend Metric**.
-   
+    <p align="center">
+  <img src="https://i.ibb.co/prRsSjJ/follow.jpg" alt="Tableau Cloud Login" width="100%" />
+</p>
    - Click **Breakdown**.
-   - Click into the listener age group and analyze breakdown.
-   - Click into Genre and analyze breakdown.
-   - Click into geographical location and analyze breakdown.
+    <p align="center">
+  <img src="https://i.ibb.co/3zwz28k/breakdown.jpg" alt="Tableau Cloud Login" width="100%" />
+</p>
+      - Notice the listener age group and analyze breakdown.
+      - Click into Genre and analyze breakdown.
+      - Click into Geographical Location and analyze breakdown.
    - **Ask Followup Questions**:
-     - Click on “Which listener gender increased the most?”
-     - Click on “Which Campaign Type increased the most?”
-     - Click on “ASK” and type “Does spend have a new trend?”
+     - Click on “Which listener Age Group increased the most?” and take a look at the answer
+      <p align="center">
+  <img src="https://i.ibb.co/NVycMnw/question1.jpg" alt="Tableau Cloud Login" width="90%" />
+</p>
+     - Click on “Which Campaign Type decreased the most?” and check out the answer.
+     - Click on “ASK” and type “Is there a new trend?”
+      <p align="center">
+  <img src="https://i.ibb.co/mDrrjyz/ask.jpg" alt="Tableau Cloud Login" width="90%" />
+</p>
+  
+      - Feel free to click on a few additional generated questions if you would like.
    - **Create a Related Metric**:
      - Scroll to top and click on Adjust.
-     - Click on “week to date” and change to “Year to Date”.
-     - Click blue checkmark to make the adjustment.
-     - Click Follow.
+     <p align="center">
+  <img src="https://i.ibb.co/jHjtPwK/adjust.jpg" alt="Tableau Cloud Login" width="100%" />
+</p>
+     - Click on **Week to Date”** and change to **“Year to Date”**.
+     <p align="center">
+  <img src="https://i.ibb.co/qs9mVb7/adjust2.jpg" alt="Tableau Cloud Login" width="40%" />
+</p>
+     - Click **blue checkmark** to make the adjustment.
+     - Follow the new related metric you just created by clicking **"Follow"**.
      - Click back to “followed metrics”.
 
 ## Bonus
