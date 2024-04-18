@@ -12,7 +12,7 @@ To log into your VM, you will need to use the following credentials:
 - **Password**: @lab.VirtualMachine(Win11-TC24).Password
 
 Once logged in you will find a link on the desktop to Tableau Online... Click the Icon:
-<p align="center">
+<p align="Left">
   <img src="https://i.ibb.co/k4ZX07K/loginicon.png" alt="Tableau Cloud Login" width="25%" />
 </p>
 
@@ -24,12 +24,12 @@ Password: **lab.CloudCredential(TC2024-HOT1796).Password**
 
 
 Once you click into the Tableau Cloud Login shortcut you will be met with a login screen. Please enter your assigned username. 
-<p align="center">
+<p align="left">
   <img src="https://i.ibb.co/JpMqY7g/tabcloudlogin2.png" alt="Tableau Cloud Login" width="50%" />
 </p>
 
 Once you enter the email into the first login you will be redirected to an Auth0 login screen.  Enter your username, and password into the fields...
-<p align="center">
+<p align="left">
   <img src="https://i.ibb.co/8xm0gTb/auth0login.png" alt="Tableau Cloud Login" width="50%" />
 </p>
 
@@ -100,26 +100,28 @@ audience more efficiently.
 
 1. **Verify Your Data Source**
    - Find your Datasource in the Project Folder and click into it.
-   <p align="center">
+   <p align="left">
   <img src="https://i.ibb.co/LZXPpJ9/ddfolder.png" alt="Tableau Cloud Login" width="90%" />
 </p>
+
    - Verify that your datasource is in the folder with your username.
-   <p align="center">
+   <p align="left">
   <img src="https://i.ibb.co/xCY1sPj/datasourcecheck.png" alt="Tableau Cloud Login" width="75%" />
 </p>
 
    - Click into **Tableau Pulse**.
-  <p align="center">
+  <p align="left">
   <img src="https://i.ibb.co/qn9VQ4B/datasourcecheck-V2.jpg" alt="Tableau Cloud Login" width="75%" />
 </p>
 
 2. **Create a New Metric Definition**
    - Click on “New Metric Definition”.
-     <p align="center">
+     <p align="left">
   <img src="https://i.ibb.co/CV850vd/CREATEMETRICdefinition.jpg" alt="Tableau Cloud Login" width="100%" />
 </p>
+
    - Select the datasource from step 1b, search if needed.
-    <p align="center">
+        <p align="left">
   <img src="https://i.ibb.co/5rXrxrj/Select-Data-Source.jpg" alt="Tableau Cloud Login" width="100%" />
 </p>
 
@@ -144,68 +146,71 @@ audience more efficiently.
 </table>
 
    - Click into the “Insights” tab.
-    <p align="center">
+        <p align="left">
   <img src="https://i.ibb.co/N7dmSDm/insights.jpg" alt="Tableau Cloud Login" width="50%" />
 </p>
 
    - Change the option for ‘Value going up’ to “Unfavorable”.
-    <p align="center">
+        <p align="left">
   <img src="https://i.ibb.co/YPTHtf1/insights2.jpg" alt="Tableau Cloud Login" width="35%" />
 </p>
 
    - Note Insight Types. If you would like to learn more about the insight types hover over the 'i' icon or visit our informational page on [Insight Types](https://help.tableau.com/current/api/rest_api/en-us/REST/rest_api_ref_pulse.htm#insight-types)
-
-    <p align="center">
+        <p align="left">
   <img src="https://i.ibb.co/ZfFtY8J/insights-3.png" alt="Tableau Cloud Login" width="35%" />
 </p>
 
    - Click on **Save Definition**.
 
 <br>
+
 3. **Follow, Adjust, and Ask**
    - **Follow the Spend Metric**.
-    <p align="center">
+        <p align="left">
   <img src="https://i.ibb.co/prRsSjJ/follow.jpg" alt="Tableau Cloud Login" width="100%" />
 </p>
 
    - Click **Breakdown**.
-    <p align="center">
+     <p align="left">
   <img src="https://i.ibb.co/3zwz28k/breakdown.jpg" alt="Tableau Cloud Login" width="100%" />
 </p>
 
-      - Notice the listener age group and analyze breakdown.
-      - Click into Genre and analyze breakdown.
-      - Click into Geographical Location and analyze breakdown.
+  - Notice the **listener age group** and analyze breakdown.
+  - Click into **Genre** and analyze breakdown.
+  - Click into **Geographical Location** and analyze breakdown.
    - **Ask Followup Questions**:
      - Click on “Which listener Age Group increased the most?” and take a look at the answer
-      <p align="center">
+      <p align="left">
   <img src="https://i.ibb.co/NVycMnw/question1.jpg" alt="Tableau Cloud Login" width="90%" />
 </p>
 
-     - Click on “Which Campaign Type decreased the most?” and check out the answer.
-     - Click on “ASK” and type “Is there a new trend?”
+   - Click on “Which Campaign Type decreased the most?” and check out the answer.
+   - Click on “ASK” and type “Is there a new trend?”
       
-      <p align="center">
+      <p align="left">
   <img src="https://i.ibb.co/mDrrjyz/ask.jpg" alt="Tableau Cloud Login" width="90%" />
 </p>
   
-      - Feel free to click on a few additional generated questions if you would like.
+   - Feel free to click on a few additional generated questions if you would like.
    - **Create a Related Metric**:
      - Scroll to top and click on Adjust.
-     <p align="center">
+     <p align="left">
   <img src="https://i.ibb.co/jHjtPwK/adjust.jpg" alt="Tableau Cloud Login" width="100%" />
 </p>
-     - Click on **Week to Date”** and change to **“Year to Date”**.
-     <p align="center">
+
+   - Click on **Week to Date”** and change to **“Year to Date”**.
+     <p align="left">
   <img src="https://i.ibb.co/qs9mVb7/adjust2.jpg" alt="Tableau Cloud Login" width="40%" />
 </p>
-     - Click **blue checkmark** to make the adjustment.
-     - Follow the new related metric you just created by clicking **"Follow"**.
-     <p align="center">
+
+   - Click **blue checkmark** to make the adjustment.
+   - Follow the new related metric you just created by clicking **"Follow"**.
+     <p align="left">
   <img src="https://i.ibb.co/z4BJ0dk/followagain.jpg" alt="Tableau Cloud Login" width="100%" />
 </p>
-     - Click back to “followed metrics”.
-     <p align="center">
+
+   - Click back to “followed metrics”.
+     <p align="left">
   <img src="https://i.ibb.co/rs2nLJ6/backtometrics.jpg" alt="Tableau Cloud Login" width="75%" />
 </p>
 
@@ -220,22 +225,26 @@ You've rocked the music world by producing an EP, and now it's time to amp up yo
 
 ## Publish a Data Source using Tableau Cloud
 - Navigate back to **Tableau Cloud** from **Tableau Pulse**.
-<p align="center">
+<p align="left">
   <img src="https://i.ibb.co/FqnDvvC/backtocloud.jpg" alt="Tableau Cloud Login" width="75%" />
 </p>
+
 - Click **Explore**.
-<p align="center">
+<p align="left">
   <img src="https://i.ibb.co/wgRNsKJ/clickexplore.jpg" alt="Tableau Cloud Login" width="20%" />
 </p>
+
 - Select **New > Published datasource**.
-<p align="center">
+<p align="left">
   <img src="https://i.ibb.co/QmThc1W/publisheddatasource.jpg" alt="Tableau Cloud Login" width="75%" />
 </p>
+
 - Note all the options for connectors.
 - Click on **"Files" > "Upload from Computer"**
-<p align="center">
+<p align="left">
   <img src="https://i.ibb.co/0CVQv5q/connecttodatawindow.jpg" alt="Tableau Cloud Login" width="100%" />
 </p>
+
 - Locate the data files in the desktop folder.
 <table width="100%" cellpadding="0" cellspacing="0">
     <tr>
@@ -247,27 +256,32 @@ You've rocked the music world by producing an EP, and now it's time to amp up yo
         </td>
     </tr>
 </table>
+
 - Click **File > Publish**.
-    <p align="center">
+    <p align="left">
   <img src="https://i.ibb.co/gZq3RCx/publish.jpg" alt="Tableau Cloud Login" width="40%" />
 </p>
+
 - Publish your data into your **DataDazzler Folder** > Carrot dropdown to **"Exercise 3"**. Keep the name "Vendor Sponsor and ROI". Press **Publish**
-    <p align="center">
+    <p align="left">
   <img src="https://i.ibb.co/mG0sDFC/publish2.jpg" alt="Tableau Cloud Login" width="40%" />
 </p>
+
 - After publishing click "Close"
 - File > Close
 
 ## Create a Metric from The Data Source
 - Click back into **Tableau Pulse**.
 - Click **"New Metric"**.
-    <p align="center">
+    <p align="left">
   <img src="https://i.ibb.co/CV850vd/CREATEMETRICdefinition.jpg" alt="Tableau Cloud Login" width="100%" />
 </p>
+
 - Choose the **"Vendor Sponsor and ROI"** data source that you published into the Exercise 3 folder.
-    <p align="center">
+    <p align="left">
   <img src="https://i.ibb.co/s6289VS/selectdatasource2.jpg" alt="Tableau Cloud Login" width="75%" />
 </p>
+
 - Set up a new metric using what you learned from Exercise 2:
   - Choose a focus such as **Investment, ROI, or Sales/Engagement** - name the metric with your initials.
   - Add all filters, or have the audience choose.
@@ -281,8 +295,9 @@ You've rocked the music world by producing an EP, and now it's time to amp up yo
         </td>
     </tr>
 </table>
+
 - **Important**: Be sure to **Follow** any of the metrics you create. Many others will also be creating metrics, so it could get crowded at the moment. Name metrics with your initials to keep them organized.
-<p align="center">
+<p align="left">
   <img src="https://i.ibb.co/kcVQp5y/digest.png" alt="Tableau Cloud Login" width="100%" />
 </p>
 
