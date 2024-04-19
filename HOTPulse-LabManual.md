@@ -161,7 +161,7 @@ audience more efficiently.
 
    - Change the option for ‘Value going up’ to “Unfavorable”.
         <p align="left">
-  <img src="https://i.ibb.co/YPTHtf1/insights2.jpg" alt="Tableau Cloud Login" width="35%" />
+  <img src="https://i.ibb.co/XC2V0FD/insights45.jpg" alt="Tableau Cloud Login" width="35%" />
 </p>
 
    - Note Insight Types. If you would like to learn more about the insight types hover over the 'i' icon or visit our informational page on [Insight Types](https://help.tableau.com/current/api/rest_api/en-us/REST/rest_api_ref_pulse.htm#insight-types)
@@ -244,7 +244,7 @@ You've rocked the music world by producing an EP, and now it's time to amp up yo
 ## Publish a Data Source using Tableau Cloud
 - Navigate back to **Tableau Cloud** from **Tableau Pulse**.
 <p align="left">
-  <img src="https://i.ibb.co/FqnDvvC/backtocloud.jpg" alt="Tableau Cloud Login" width="75%" />
+  <img src="https://i.ibb.co/0MfXSQS/backtocloud23.jpg" alt="Tableau Cloud Login" width="75%" />
 </p>
 
 - Click **Explore**.
@@ -254,7 +254,7 @@ You've rocked the music world by producing an EP, and now it's time to amp up yo
 
 - Select **New > Published datasource**.
 <p align="left">
-  <img src="https://i.ibb.co/QmThc1W/publisheddatasource.jpg" alt="Tableau Cloud Login" width="75%" />
+  <img src="https://i.ibb.co/zZfDTQR/pubblisheddatasource45.jpg" alt="Tableau Cloud Login" width="75%" />
 </p>
 
 - Note all the options for connectors.
@@ -309,7 +309,7 @@ You've rocked the music world by producing an EP, and now it's time to amp up yo
             <img src="https://i.ibb.co/RDDvkQ1/createmetric5.png" alt="Tableau Cloud Login" width="100%" />
         </td>
         <td style="width: 50%; padding-left: 5px;">
-            <img src="https://i.ibb.co/ZXhkR3C/createmetric6.png" alt="Tableau Cloud Login" width="100%" />
+            <img src="https://i.ibb.co/h97tNQX/createmetric6788.png" alt="Tableau Cloud Login" width="100%" />
         </td>
     </tr>
 </table>
