@@ -8,20 +8,15 @@ To make the most of this Hands on Training Session, please follow the exercises 
 
 To log into your VM, you will need to use the following credentials:
 
-- **Username**: @lab.VirtualMachine(Win11-TC24).Username
-- **Password**: @lab.VirtualMachine(Win11-TC24).Password
+- **Username**: Admin
+- **Password**: Passw0rd!
 
 Once logged in you will find a link on the desktop to Tableau Online... Click the Icon:
 <p align="Left">
   <img src="https://i.ibb.co/k4ZX07K/loginicon.png" alt="Tableau Cloud Login" width="25%" />
 </p>
 
-Tableau Cloud Credentials:
-
-Username Email: **@lab.CloudCredential(TC2024-HOT1796).Username**
-
-Password: **lab.CloudCredential(TC2024-HOT1796).Password**
-
+**Tableau Cloud Credentials** can be found in the Lab Manual attached to your Virtual Machine.  We can not supply a username/password in Github.  If you need credentials or can not find yours please raise your hand for assistance from the RA's.
 
 Once you click into the Tableau Cloud Login shortcut you will be met with a login screen. Please enter your assigned username. 
 <p align="left">
@@ -50,6 +45,11 @@ Explore your artist data through **Tableau Pulse** to discover who your fans are
 
 ## Instructions
 
+Open **Tableau Pulse** once logged in.  Find and Click on **Tableau Pulse** in the main menu.
+    <p align="Left">
+  <img src="https://i.ibb.co/FY5dr0C/pulsehomepage.jpg" alt="Tableau Cloud Login" width="40%" />
+</p>
+
 Follow the clues provided below and use **Tableau Pulse** to uncover the answers. Keep track of your responses in this Google Form.
 
 ### Clue 1: Kickoff to Fan Engagement
@@ -71,6 +71,15 @@ Follow the clues provided below and use **Tableau Pulse** to uncover the answers
 ### Clue 5: Trendsetter Tunes
 
 - Trendsetters tune the public’s ear, making hits appear. Enter 'Trendsetter Track Triumph' and bring your findings here. Which track did influencers push, making its climb clear?
+
+<br>
+<p align="center" style="color: red; font-size: 20px;">
+  <strong>🔴 STOP! You have completed the exercise.</strong>
+</p>
+<p align="center">
+  <strong>Please check out the bonus content or wait for the next exercise:</strong>
+</p>
+<br>
 
 ### BONUS: Curtain Call
 
@@ -152,7 +161,7 @@ audience more efficiently.
 
    - Change the option for ‘Value going up’ to “Unfavorable”.
         <p align="left">
-  <img src="https://i.ibb.co/YPTHtf1/insights2.jpg" alt="Tableau Cloud Login" width="40%" />
+  <img src="https://i.ibb.co/YPTHtf1/insights2.jpg" alt="Tableau Cloud Login" width="35%" />
 </p>
 
    - Note Insight Types. If you would like to learn more about the insight types hover over the 'i' icon or visit our informational page on [Insight Types](https://help.tableau.com/current/api/rest_api/en-us/REST/rest_api_ref_pulse.htm#insight-types)
@@ -213,6 +222,15 @@ audience more efficiently.
      <p align="left">
   <img src="https://i.ibb.co/rs2nLJ6/backtometrics.jpg" alt="Tableau Cloud Login" width="75%" />
 </p>
+
+<br>
+<p align="center" style="color: red; font-size: 20px;">
+  <strong>🔴 STOP! You have completed the exercise.</strong>
+</p>
+<p align="center">
+  <strong>Please check out the bonus content or wait for the next exercise:</strong>
+</p>
+<br>
 
 ## Bonus
 Create more metrics and keep exploring. Download counts, engagement rate, chart positions, playlist adds, reach, etc., can all have similar click paths with similar filters.
@@ -303,6 +321,15 @@ You've rocked the music world by producing an EP, and now it's time to amp up yo
 
 ### Note
 This exercise requires careful attention to detail and understanding of data handling in Tableau. Make sure you follow the steps closely and use your new skills to enhance the festival planning process.
+
+<br>
+<p align="center" style="color: red; font-size: 20px;">
+  <strong>🔴 STOP! You have completed the exercise.</strong>
+</p>
+<p align="center">
+  <strong>Please check out the bonus content or wait for the next exercise:</strong>
+</p>
+<br>
 
 <br>
 # 🌟 BONUS: Encore! Encore! Encore!
