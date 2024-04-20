@@ -101,9 +101,9 @@ audience more efficiently.
 
 ## Quick Recap and Setup
 - **We are giong to be Creating a new Pulse Metric** from a published Datasource on Tableau Cloud.
-- **Project Folder where Data Source is located**: Same as your username (DataDazzler[x])
-- **Data Source we will be using**: Music Production Details_[Your Username]
-- **Note**: If you do not see the folder + Datasource, try refreshing the page.
+- **We will be working from an already published datasource**: It wil be named the same as your username (DataDazzler[x])
+- **The Data Source we will be using is in that folder**: it will be named Music Production Details_[Your Username]
+
 
 ## Steps to Create New Pulse Metric Definitions
 
@@ -117,6 +117,8 @@ audience more efficiently.
    <p align="left">
   <img src="https://i.ibb.co/xCY1sPj/datasourcecheck.png" alt="Tableau Cloud Login" width="75%" />
 </p>
+
+- **Note**: If you do not see the folder + Datasource, try refreshing the page.
 
    - Click into **Tableau Pulse**.
   <p align="left">
