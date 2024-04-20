@@ -118,7 +118,7 @@ audience more efficiently.
   <img src="https://i.ibb.co/xCY1sPj/datasourcecheck.png" alt="Tableau Cloud Login" width="75%" />
 </p>
 
-- **Note**: If you do not see the folder + Datasource, try refreshing the page.
+- **Note**: If you do not see the folder + Datasource, try refreshing the page. If after refreshing the page you still do not see your datasource please raise your hand and a room assistant or a presenter will be around to help.
 
    - Click into **Tableau Pulse**.
   <p align="left">
