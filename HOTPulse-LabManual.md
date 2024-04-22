@@ -312,12 +312,12 @@ You've rocked the music world by producing an EP, and now it's time to amp up yo
     - **Adjustable metric filters**: Sponsorship Focus Area, Sponsorship Type, Product Category, Vendor/Sponsor Name
 
 <table width="100%" cellpadding="0" cellspacing="0">
-    <tr>
+     <tr>
         <td style="width: 50%; padding-right: 5px;">
             <img src="https://i.ibb.co/K7ZjfLr/exercise3-metricscreens.jpg" alt="Tableau Cloud Login" width="100%" />
         </td>
         <td style="width: 50%; padding-left: 5px;">
-            <img src="https://i.ibb.co/h9FWbqq/exercise3-metricscreens2.jpg" alt="Tableau Cloud Login" width="100%" />
+            <img src="https://i.ibb.co/h9FWbqq/exercise3-metricscreens.jpg" alt="Tableau Cloud Login" width="100%" />
         </td>
     </tr>
 </table>
