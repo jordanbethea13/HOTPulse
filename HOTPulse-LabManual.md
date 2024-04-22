@@ -234,8 +234,8 @@ audience more efficiently.
 </p>
 <br>
 
-## Bonus
-Create more metrics and keep exploring. Download counts, engagement rate, chart positions, playlist adds, reach, etc., can all have similar click paths with similar filters.
+## BONUS: Mastering the Mix
+Create more metrics from the Music Production data source... Download counts, engagement rate, chart positions, playlist adds, reach, etc., can all have similar click paths with similar filters.
 
 <br><br>
 # Exercise 3: Publish Data Source and Pulse Metric
@@ -303,15 +303,21 @@ You've rocked the music world by producing an EP, and now it's time to amp up yo
 </p>
 
 - Set up a new metric using what you learned from Exercise 2:
-  - Choose a focus such as **Investment, ROI, or Sales/Engagement** - name the metric with your initials.
-  - Add all filters, or have the audience choose.
+  - Choose a focus such as **Investment, ROI, or Sales/Engagement** 
+  - Add filters of your choice.  Here is one recommendation:
+    - **Name**: Investment
+    - **Description**: The investment cost of Vendor or Sponsor
+    - **Measure***: Investment
+    - **Time Dimension**: Date
+    - **Adjustable metric filters**: Sponsorship Focus Area, Sponsorship Type, Product Category, Vendor/Sponsor Name
+
 <table width="100%" cellpadding="0" cellspacing="0">
     <tr>
         <td style="width: 50%; padding-right: 5px;">
-            <img src="https://i.ibb.co/RDDvkQ1/createmetric5.png" alt="Tableau Cloud Login" width="100%" />
+            <img src="https://i.ibb.co/K7ZjfLr/exercise3-metricscreens.jpg" alt="Tableau Cloud Login" width="100%" />
         </td>
         <td style="width: 50%; padding-left: 5px;">
-            <img src="https://i.ibb.co/h97tNQX/createmetric6788.png" alt="Tableau Cloud Login" width="100%" />
+            <img src="https://i.ibb.co/h9FWbqq/exercise3-metricscreens2.jpg" alt="Tableau Cloud Login" width="100%" />
         </td>
     </tr>
 </table>
@@ -334,6 +340,7 @@ This exercise requires careful attention to detail and understanding of data han
 <br>
 
 <br>
+
 # 🌟 BONUS: Encore! Encore! Encore!
 
 After you've completed the main exercises, take your data exploration to the next level. Dive deeper into the world of data and music festivals with this bonus challenge:
