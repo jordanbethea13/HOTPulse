@@ -16,7 +16,7 @@ Once logged in you will find a link on the desktop to Tableau Online... Click th
   <img src="https://i.ibb.co/k4ZX07K/loginicon.png" alt="Tableau Cloud Login" width="25%" />
 </p>
 
-**Tableau Cloud Credentials** can be found in the Lab Manual attached to your Virtual Machine.  We can not supply a username/password in Github.  If you need credentials or can not find yours please raise your hand for assistance from the RA's.
+**Tableau Cloud Credentials** can be found in the Lab Manual attached to your Virtual Machine.  We can not supply a username/password in Github, or in a PDF.  If you need credentials or can not find yours please raise your hand for assistance from the RA's.
 
 Once you click into the Tableau Cloud Login shortcut you will be met with a login screen. Please enter your assigned username. 
 <p align="left">
@@ -41,9 +41,15 @@ As an emerging artist you have been focusing all of your energy into your passio
 
 ## Objective
 
-Explore your artist data through **Tableau Pulse** to discover who your fans are and what resonates with them. Your findings will help shape your future marketing and engagement strategies.
+Explore your artist metrics through **Tableau Pulse** to discover who your fans are and what resonates with them. Your findings will help shape your future marketing and engagement strategies.
 
 ## Instructions
+Follow the following clues and uncover the answers using Tableau Pulse metrics. There are hints there if you need assistance. Be sure to keep track of your responses and submit this [Google Form](https://forms.gle/VzPqCjF6imffpvxu6) (no sign in required!). There may be a surprise for the first few submissions with correct answers 👀
+
+<details>
+  <summary>💡 Exercise Hint</summary>
+  <p>There are additional clues <strong>bolded</strong> within the clue itself!</p>
+</details>
 
 Open **Tableau Pulse** once logged in.  Find and Click on **Tableau Pulse** in the main menu.
     <p align="Left">
@@ -54,24 +60,82 @@ Follow the clues provided below and use **Tableau Pulse** to uncover the answers
 
 ### Clue 1: Kickoff to Fan Engagement
 
-- Where fans gather, the stars align. Begin where conversations ignite. Find the date when the spotlight began to shine.
+Where fans gather, the stars align. Begin where conversations ignite. Find the date when the spotlight began to shine and streams began to soar. *(This should be submitted in the format of mm/dd/yyyy)*
+
+<details>
+  <summary>💡 <strong>HINT 1</strong></summary>
+  <p>Click on the <strong>Streams</strong> metric and scroll to the <strong>>Trends and Outliers section</strong> to observe the trend</p>
+</details>
+  <details>
+  <summary>💡 <strong>HINT 2</strong></summary>
+  <p>If a trend line does not appear, click the <strong>Ask button</strong> and ask “Does Streams have a new trend?”</p>
+  <img src="https://i.ibb.co/7JbdTB9/askbutton.png" alt="Tableau Cloud Login" width="10%" />
+</details>
 
 ### Clue 2: Rhythms of Streaming Success
 
-- Streaming notes fill the air, from calm streams to tidal waves. Locate the metric where data unveils highs and lows. Which song made the numbers rave?
+Streaming notes fill the air, from calm streams to tidal waves. Locate the metric where data unveils highs and lows. <strong>Which song made the numbers rave?</strong>
+
+<details>
+  <summary><strong>💡 HINT 1</strong></summary>
+  <p>Click on the <strong>Streams</strong> metric </p>
+</details>
+  <details>
+  <summary>💡 <strong>HINT 2</strong></summary>
+  <p>Toggle to the <strong>Breakdown</strong> view OR utilize the <strong>Ask button</strong> in the <strong>Questions section</strong> and type in “Which Song Title has high Streams?” <strong>Ask button</strong> and ask “Does Streams have a new trend?”</p>
+  <img src="https://i.ibb.co/7JbdTB9/askbutton.png" alt="Tableau Cloud Login" width="10%" />
+  <img src="https://i.ibb.co/pW0yk3z/breakdownbutton.png" alt="Tableau Cloud Login" width="40%" />
+</details>
 
 ### Clue 3: Fanbase Footprint
 
-- Fans tune in from far and near. From coast to coast, they hold you in their hearts so dear. Discover which state drums to the beat so you know which show you need to repeat.
+Fans tune in from far and near, growing your audience day by day. From coast to coast, they hold you in their hearts so dear. Discover which listener location drums to the beat so you know which show you need to repeat.
+
+<details>
+  <summary><strong>💡 HINT 1</strong></summary>
+  <p>Which <strong>Listener Location</strong> (State) has the most Audience Growth? </p>
+</details>
+  <details>
+  <summary><strong>💡 HINT 2</strong></summary>
+  <p>Toggle to the Breakdown view</p>
+  <img src="https://i.ibb.co/pW0yk3z/breakdownbutton.png" alt="Tableau Cloud Login" width="40%" />
+</details>
 
 ### Clue 4: Social Media Symphony
 
-- Across platforms wide, where do voices echo most? Seek the visual chorus of likes and shares' host. Which platform holds the crown, where fans' interactions boast? (Hint: you may need to follow two Pulse metrics)
+Across platforms wide, where do voices echo most? Seek the visual chorus of number of likes and number of shares' host. Which Platform holds the crown, where fans' interactions boast? (Hint: you need to follow two Pulse metrics)
+
+<details>
+  <summary><strong>💡 HINT 1</strong></summary>
+  <p>Return the Pulse homepage and with use the Search Bar (top right of screen) OR toggle to Browse Metrics. The two metrics are: Number of Likes and Number of Shares</p>
+  <img src="https://i.ibb.co/6DSG3yn/searchclick.jpg" alt="Tableau Cloud Login" width="60%" />
+  <img src="https://i.ibb.co/nP90dQv/BROWSeclick.jpg" alt="Tableau Cloud Login" width="60%" />
+</details>
+  <details>
+  <summary><strong>💡 HINT 2</strong></summary>
+  <p>On each Metric page, utilize the Breakdown view to find the top Platform</p>
+  <img src="https://i.ibb.co/pW0yk3z/breakdownbutton.png" alt="Tableau Cloud Login" width="40%" />
+</details>
 
 ### Clue 5: Trendsetter Tunes
 
-- Trendsetters tune the public’s ear, making hits appear. Enter 'Trendsetter Track Triumph' and bring your findings here. Which track did influencers push, making its climb clear?
+Trendsetters tune the public’s ear, making hits appear. Enter Influencer Engagement and bring your findings here. What are the first two words of the Content post influencers pushed, making its climb clear?
 
+<details>
+  <summary><strong>💡 HINT 1</strong></summary>
+  <p>Return the Pulse homepage and with use the Search Bar (top right of screen) OR toggle to Browse Metrics </p>
+    <img src="https://i.ibb.co/6DSG3yn/searchclick.jpg" alt="Tableau Cloud Login" width="60%" />
+  <img src="https://i.ibb.co/nP90dQv/BROWSeclick.jpg" alt="Tableau Cloud Login" width="60%" />
+</details>
+  <details>
+  <summary><strong>💡 HINT 2</strong></summary>
+  <p>On the Metric page, utilize the Breakdown view to find the top Content post</p>
+    <img src="https://i.ibb.co/pW0yk3z/breakdownbutton.png" alt="Tableau Cloud Login" width="40%" />
+</details>
+
+<br>
+
+**🎊 WOOOHOOO! You’ve completed the scavenger hunt! Remember to submit your answers [Here](https://forms.gle/VzPqCjF6imffpvxu6)**
 <br>
 <p align="center" style="color: red; font-size: 20px;">
   <strong>🔴 STOP! You have completed the exercise.</strong>
@@ -144,7 +208,9 @@ audience more efficiently.
      - **Show Sparkline values to date as**: Running total
      - **Time dimension**: Date
      - **Compared to**: Leave as is
-     - **Adjustable metrics filters**: Add all options: Artist Name, Campaign Type, Genre, Geographical Location, Listener Age Group, Listener Gender, Song Name
+     - **Adjustable metrics filters**: Add all options, in order: Artist Name, Campaign Type, Genre, Geographical Location, Listener Age Group, Listener Gender, Song Name
+     - **Optional**: Change the "Number Format" to 'Currency'
+
 <table width="100%" cellpadding="0" cellspacing="0">
     <tr>
         <td style="width: 50%; padding-right: 5px;">
@@ -175,14 +241,16 @@ audience more efficiently.
 
 <br>
 
-3. **Follow, Adjust, and Ask**
-   - **Follow the Spend Metric**.
+1. **Follow, Adjust, and Ask**
+   - 💡 **NOTE:** The screenshots in the lab manual were taken at an earlier date, please note that the numbers, and dates in the screenshots may not match perfectly to what you see on screen.  The click path and options will all remain the same.
+
+  - **Follow the Spend Metric**.
         <p align="left">
   <img src="https://i.ibb.co/prRsSjJ/follow.jpg" alt="Tableau Cloud Login" width="100%" />
 </p>
 
    - Click **Breakdown**.
-     <p align="left">
+            <p align="left">
   <img src="https://i.ibb.co/3zwz28k/breakdown.jpg" alt="Tableau Cloud Login" width="100%" />
 </p>
 
@@ -191,37 +259,42 @@ audience more efficiently.
   - Click into **Geographical Location** and analyze breakdown.
    - **Ask Followup Questions**:
      - Click on “Which listener Age Group increased the most?” and take a look at the answer
-      <p align="left">
+            <p align="left">
   <img src="https://i.ibb.co/NVycMnw/question1.jpg" alt="Tableau Cloud Login" width="90%" />
 </p>
 
    - Click on “Which Campaign Type decreased the most?” and check out the answer.
+     - 💡 **NOTE:** If you do not see the questions mentioned above, please try any similar followup question presented. The questions, and order of the questions are determined by adjustable metric filters.
+
    - Click on “ASK” and type “Is there a new trend?”
-      
-      <p align="left">
+          <p align="left">
   <img src="https://i.ibb.co/mDrrjyz/ask.jpg" alt="Tableau Cloud Login" width="90%" />
 </p>
   
-   - Feel free to click on a few additional generated questions if you would like.
+   - Feel free to click on a few additional generated questions if you would like. Reflect on what you have learned about the metric you just created and let's move on to creating a related metric.
    - **Create a Related Metric**:
      - Scroll to top and click on Adjust.
-     <p align="left">
+            <p align="left">
   <img src="https://i.ibb.co/jHjtPwK/adjust.jpg" alt="Tableau Cloud Login" width="100%" />
 </p>
 
    - Click on **Week to Date”** and change to **“Year to Date”**.
-     <p align="left">
+            <p align="left">
   <img src="https://i.ibb.co/qs9mVb7/adjust2.jpg" alt="Tableau Cloud Login" width="40%" />
 </p>
 
    - Click **blue checkmark** to make the adjustment.
+          <p align="left">
+  <img src="https://i.ibb.co/MNGtq81/adjustclick.jpg" alt="Tableau Cloud Login" width="30%" />
+</p>
+
    - Follow the new related metric you just created by clicking **"Follow"**.
-     <p align="left">
+          <p align="left">
   <img src="https://i.ibb.co/z4BJ0dk/followagain.jpg" alt="Tableau Cloud Login" width="100%" />
 </p>
 
    - Click back to “followed metrics”.
-     <p align="left">
+          <p align="left">
   <img src="https://i.ibb.co/rs2nLJ6/backtometrics.jpg" alt="Tableau Cloud Login" width="75%" />
 </p>
 
@@ -259,7 +332,7 @@ You've rocked the music world by producing an EP, and now it's time to amp up yo
   <img src="https://i.ibb.co/zZfDTQR/pubblisheddatasource45.jpg" alt="Tableau Cloud Login" width="75%" />
 </p>
 
-- Note all the options for connectors.
+- Notice all the options for connectors.
 - Click on **"Files" > "Upload from Computer"**
 <p align="left">
   <img src="https://i.ibb.co/0CVQv5q/connecttodatawindow.jpg" alt="Tableau Cloud Login" width="100%" />
@@ -312,12 +385,12 @@ You've rocked the music world by producing an EP, and now it's time to amp up yo
     - **Adjustable metric filters**: Sponsorship Focus Area, Sponsorship Type, Product Category, Vendor/Sponsor Name
 
 <table width="100%" cellpadding="0" cellspacing="0">
-     <tr>
+    <tr>
         <td style="width: 50%; padding-right: 5px;">
             <img src="https://i.ibb.co/K7ZjfLr/exercise3-metricscreens.jpg" alt="Tableau Cloud Login" width="100%" />
         </td>
         <td style="width: 50%; padding-left: 5px;">
-            <img src="https://i.ibb.co/h9FWbqq/exercise3-metricscreens.jpg" alt="Tableau Cloud Login" width="100%" />
+            <img src="https://i.ibb.co/h9FWbqq/exercise3-metricscreens2.jpg" alt="Tableau Cloud Login" width="100%" />
         </td>
     </tr>
 </table>
@@ -326,9 +399,6 @@ You've rocked the music world by producing an EP, and now it's time to amp up yo
 <p align="left">
   <img src="https://i.ibb.co/kcVQp5y/digest.png" alt="Tableau Cloud Login" width="100%" />
 </p>
-
-### Note
-This exercise requires careful attention to detail and understanding of data handling in Tableau. Make sure you follow the steps closely and use your new skills to enhance the festival planning process.
 
 <br>
 <p align="center" style="color: red; font-size: 20px;">
