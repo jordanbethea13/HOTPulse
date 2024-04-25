@@ -171,26 +171,14 @@ audience more efficiently.
 
 ## Steps to Create New Pulse Metric Definitions
 
-1. **Verify Your Data Source**
-   - Find your Datasource in the Project Folder and click into it.
-   <p align="left">
-  <img src="https://i.ibb.co/LZXPpJ9/ddfolder.png" alt="Tableau Cloud Login" width="90%" />
-</p>
-
-   - Verify that your datasource is in the folder with your username.
-   <p align="left">
-  <img src="https://i.ibb.co/xCY1sPj/datasourcecheck.png" alt="Tableau Cloud Login" width="75%" />
-</p>
-
-- **Note**: If you do not see the folder + Datasource, try refreshing the page. If after refreshing the page you still do not see your datasource please raise your hand and a room assistant or a presenter will be around to help.
-
-   - Click into **Tableau Pulse**.
+  - If you aren't already in Tableau Pulse, Click into **Tableau Pulse**.
   <p align="left">
   <img src="https://i.ibb.co/qn9VQ4B/datasourcecheck-V2.jpg" alt="Tableau Cloud Login" width="75%" />
 </p>
 
-2. **Create a New Metric Definition**
+1. **Create a New Metric Definition**
    - Click on “New Metric Definition”.
+     - 💡 **NOTE:** If you can not see the blue "New Metric Definition" button, tre refreshing the page.  You will not be able to create a new metric definition until the presenters change your permissions on the Tableau Site.  If the button is still not showing up, you may need to change the zoom level of the window.  If having trouble please raise your hands and an RA will be around to assist.
      <p align="left">
   <img src="https://i.ibb.co/CV850vd/CREATEMETRICdefinition.jpg" alt="Tableau Cloud Login" width="100%" />
 </p>
