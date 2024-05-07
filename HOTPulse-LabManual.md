@@ -4,16 +4,14 @@ Welcome to your lab environment. 🧪
 
 To make the most of this Hands on Training Session, please follow the exercises outlined in this lab manual. Each exercise is designed to help you apply what you've learned in a practical setting and gain valuable hands-on experience.
 
-First we will need to navigate to Tableau Cloud... Click the Icon:
-<p align="Left">
-  <img src="https://i.ibb.co/k4ZX07K/loginicon.png" alt="Tableau Cloud Login" width="25%" />
-</p>
+First we will need to sign into Tableau Cloud... Please open an internet browser and navigate to: [online.tableau.com](https://online.tableau.com)
+
 
 <div style="background-color: #; padding: 10px; border-left: 5px solid #ccc;">
   💡 <strong>NOTE:</strong> Tableau Cloud Credentials will be given to you during the introductory housekeeping of this workshop.  We will be assigning you a DataDazzler email account and password to complete the hands on portion of this training.
 </div>
 <br>
-Once you click into the Tableau Cloud Login shortcut you will be met with a login screen. Please enter your assigned username. 
+Once you navigate to Tableau Cloud homepage you will be met with a login screen. Please enter your assigned username. 
 <p align="left">
   <img src="https://i.ibb.co/JpMqY7g/tabcloudlogin2.png" alt="Tableau Cloud Login" width="50%" />
 </p>
