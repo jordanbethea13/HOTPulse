@@ -4,20 +4,15 @@ Welcome to your lab environment. 🧪
 
 To make the most of this Hands on Training Session, please follow the exercises outlined in this lab manual. Each exercise is designed to help you apply what you've learned in a practical setting and gain valuable hands-on experience.
 
-## Access Your Virtual Machine
-
-To log into your VM, you will need to use the following credentials:
-
-- **Username**: Admin
-- **Password**: Passw0rd!
-
-Once logged in you will find a link on the desktop to Tableau Online... Click the Icon:
+First we will need to navigate to Tableau Cloud... Click the Icon:
 <p align="Left">
   <img src="https://i.ibb.co/k4ZX07K/loginicon.png" alt="Tableau Cloud Login" width="25%" />
 </p>
 
-**Tableau Cloud Credentials** can be found in the Lab Manual attached to your Virtual Machine.  We can not supply a username/password in Github, or in a PDF.  If you need credentials or can not find yours please raise your hand for assistance from the RA's.
-
+<div style="background-color: #; padding: 10px; border-left: 5px solid #ccc;">
+  💡 <strong>NOTE:</strong> Tableau Cloud Credentials will be given to you during the introductory housekeeping of this workshop.  We will be assigning you a DataDazzler email account and password to complete the hands on portion of this training.
+</div>
+<br>
 Once you click into the Tableau Cloud Login shortcut you will be met with a login screen. Please enter your assigned username. 
 <p align="left">
   <img src="https://i.ibb.co/JpMqY7g/tabcloudlogin2.png" alt="Tableau Cloud Login" width="50%" />
@@ -44,7 +39,7 @@ As an emerging artist you have been focusing all of your energy into your passio
 Explore your artist metrics through **Tableau Pulse** to discover who your fans are and what resonates with them. Your findings will help shape your future marketing and engagement strategies.
 
 ## Instructions
-Follow the following clues and uncover the answers using Tableau Pulse metrics. There are hints there if you need assistance. Be sure to keep track of your responses and submit this [Google Form](https://forms.gle/VzPqCjF6imffpvxu6) (no sign in required!). There may be a surprise for the first few submissions with correct answers 👀
+Follow the following clues and uncover the answers using Tableau Pulse metrics. There are hints there if you need assistance. Be sure to keep track of your responses and submit this [Google Form](https://forms.gle/VzPqCjF6imffpvxu6)(no sign in required!). There may be a surprise for the first few submissions with correct answers 👀
 
 <details>
   <summary>💡 Exercise Hint</summary>
@@ -56,11 +51,15 @@ Open **Tableau Pulse** once logged in.  Find and Click on **Tableau Pulse** in t
   <img src="https://i.ibb.co/FY5dr0C/pulsehomepage.jpg" alt="Tableau Cloud Login" width="40%" />
 </p>
 
-Follow the clues provided below and use **Tableau Pulse** to uncover the answers. Keep track of your responses in this Google Form.
+Follow the clues provided below and use **Tableau Pulse** to uncover the answers. Keep track of your responses in this [Google Form](https://forms.gle/VzPqCjF6imffpvxu6)
+
+<p align="Left">
+  <img src="https://i.ibb.co/TP4PHJD/metricanatomy.png" alt="Tableau Cloud Login" width="100%" />
+</p>
 
 ### Clue 1: Kickoff to Fan Engagement
 
-Where fans gather, the stars align. Begin where conversations ignite. Find the date when the spotlight began to shine and streams began to soar. *(This should be submitted in the format of mm/dd/yyyy)*
+Where fans gather, the stars align. Begin where conversations ignite. **Find the date** when the spotlight began to shine and **streams** began to soar. *(This should be submitted in the format of mm/dd/yyyy)*
 
 <details>
   <summary>💡 <strong>HINT 1</strong></summary>
@@ -74,7 +73,7 @@ Where fans gather, the stars align. Begin where conversations ignite. Find the d
 
 ### Clue 2: Rhythms of Streaming Success
 
-Streaming notes fill the air, from calm streams to tidal waves. Locate the metric where data unveils highs and lows. <strong>Which song made the numbers rave?</strong>
+Streaming notes fill the air, from calm **streams** to tidal waves. Locate the metric where data unveils highs and lows. <strong>Which song made the numbers rave?</strong>
 
 <details>
   <summary><strong>💡 HINT 1</strong></summary>
@@ -83,73 +82,76 @@ Streaming notes fill the air, from calm streams to tidal waves. Locate the metri
   <details>
   <summary>💡 <strong>HINT 2</strong></summary>
   <p>Toggle to the <strong>Breakdown</strong> view OR utilize the <strong>Ask button</strong> in the <strong>Questions section</strong> and type in “Which Song Title has high Streams?” <strong>Ask button</strong> and ask “Does Streams have a new trend?”</p>
-  <img src="https://i.ibb.co/7JbdTB9/askbutton.png" alt="Tableau Cloud Login" width="10%" />
+  <img src="https://i.ibb.co/7JbdTB9/askbutton.png" alt="Tableau Cloud Login" width="10%" />  <strong>OR</strong>
   <img src="https://i.ibb.co/pW0yk3z/breakdownbutton.png" alt="Tableau Cloud Login" width="40%" />
 </details>
 
 ### Clue 3: Fanbase Footprint
 
-Fans tune in from far and near, growing your audience day by day. From coast to coast, they hold you in their hearts so dear. Discover which listener location drums to the beat so you know which show you need to repeat.
+Fans tune in from far and near, **growing your audience** day by day. From coast to coast, they hold you in their hearts so dear. Discover which **listener location** drums to the beat so you know which show you need to repeat.
 
 <details>
   <summary><strong>💡 HINT 1</strong></summary>
-  <p>Which <strong>Listener Location</strong> (State) has the most Audience Growth? </p>
+  <p>Which <strong>Listener Location</strong> (State) has the most <strong>Audience Growth</strong>? </p>
 </details>
   <details>
   <summary><strong>💡 HINT 2</strong></summary>
-  <p>Toggle to the Breakdown view</p>
+  <p>Toggle to the <strong>Breakdown</strong> view</p>
   <img src="https://i.ibb.co/pW0yk3z/breakdownbutton.png" alt="Tableau Cloud Login" width="40%" />
 </details>
 
 ### Clue 4: Social Media Symphony
 
-Across platforms wide, where do voices echo most? Seek the visual chorus of number of likes and number of shares' host. Which Platform holds the crown, where fans' interactions boast? (Hint: you need to follow two Pulse metrics)
+Across platforms wide, where do voices echo most? Seek the visual chorus of **number of likes** and **number of shares'** host. Which **Platform** holds the crown, where fans' interactions boast? *(Hint: you need to follow **two** Pulse metrics)*
 
 <details>
   <summary><strong>💡 HINT 1</strong></summary>
-  <p>Return the Pulse homepage and with use the Search Bar (top right of screen) OR toggle to Browse Metrics. The two metrics are: Number of Likes and Number of Shares</p>
-  <img src="https://i.ibb.co/6DSG3yn/searchclick.jpg" alt="Tableau Cloud Login" width="60%" />
+  <p>Return the <strong>Pulse homepage</strong> and use the <strong>Search Bar</strong> (top right of screen) OR toggle to <strong>Browse Metrics</strong>. The two metrics are: <strong>Number of Likes</strong> and <strong>Number of Shares</strong></p>
+  <img src="https://i.ibb.co/6DSG3yn/searchclick.jpg" alt="Tableau Cloud Login" width="60%" /> </br>
+  <strong>OR</strong></br>
   <img src="https://i.ibb.co/nP90dQv/BROWSeclick.jpg" alt="Tableau Cloud Login" width="60%" />
 </details>
   <details>
   <summary><strong>💡 HINT 2</strong></summary>
-  <p>On each Metric page, utilize the Breakdown view to find the top Platform</p>
+  <p>On each <strong>Metric</strong> page, utilize the <strong>Breakdown</strong> view to find the top <strong>Platform</strong></p>
   <img src="https://i.ibb.co/pW0yk3z/breakdownbutton.png" alt="Tableau Cloud Login" width="40%" />
 </details>
 
 ### Clue 5: Trendsetter Tunes
 
-Trendsetters tune the public’s ear, making hits appear. Enter Influencer Engagement and bring your findings here. What are the first two words of the Content post influencers pushed, making its climb clear?
+Trendsetters tune the public’s ear, making hits appear. Enter **Influencer Engagement** and bring your findings here. What are the **first two words** of the **Content** post influencers pushed, making its climb clear?
 
 <details>
   <summary><strong>💡 HINT 1</strong></summary>
-  <p>Return the Pulse homepage and with use the Search Bar (top right of screen) OR toggle to Browse Metrics </p>
-    <img src="https://i.ibb.co/6DSG3yn/searchclick.jpg" alt="Tableau Cloud Login" width="60%" />
+  <p>Return the <strong>Pulse homepage</strong> and use the <strong>Search Bar</strong> (top right of screen) OR toggle to <strong>Browse Metrics</strong> </p>
+  <img src="https://i.ibb.co/6DSG3yn/searchclick.jpg" alt="Tableau Cloud Login" width="60%" /></br>
+  <strong>OR</strong></br>
   <img src="https://i.ibb.co/nP90dQv/BROWSeclick.jpg" alt="Tableau Cloud Login" width="60%" />
 </details>
   <details>
   <summary><strong>💡 HINT 2</strong></summary>
-  <p>On the Metric page, utilize the Breakdown view to find the top Content post</p>
-    <img src="https://i.ibb.co/pW0yk3z/breakdownbutton.png" alt="Tableau Cloud Login" width="40%" />
+  <p>On the <strong>Metric</strong> page, utilize the <strong>Breakdown</strong> view to find the top <strong>Content</strong> post and subsequently the <strong> first two words.</strong></p>
+  <img src="https://i.ibb.co/pW0yk3z/breakdownbutton.png" alt="Tableau Cloud Login" width="40%" />
 </details>
 
 <br>
 
 **🎊 WOOOHOOO! You’ve completed the scavenger hunt! Remember to submit your answers [Here](https://forms.gle/VzPqCjF6imffpvxu6)**
 <br>
+
 <p align="center" style="color: red; font-size: 20px;">
   <strong>🔴 STOP! You have completed the exercise.</strong>
 </p>
 <p align="center">
   <strong>Please check out the bonus content or wait for the next exercise:</strong>
 </p>
-<br>
 
 ### BONUS: Curtain Call
 
 - Summarize your findings and provide insights on how they can impact your strategy moving forward.
 
 <br><br>
+
 # Exercise 2: Create and Curate Pulse Metrics
 
 ### Important
@@ -160,8 +162,8 @@ Imagine stepping into the role of a visionary Music Producer, tasked with the th
 
 With **Tableau Pulse** at your fingertips, you have the power to dive deep into data-driven insights that inform every beat and note of your production. This isn't just about making music—it's about sculpting a sonic masterpiece that resonates on a personal level with your audience. You will:
 
-Embrace your new role, harness the data, and start making musical history!
-audience more efficiently.
+Embrace your new role, harness the data, and start making musical metrics!
+
 
 ## Quick Recap and Setup
 - **We are giong to be Creating a new Pulse Metric** from a published Datasource on Tableau Cloud.
@@ -178,10 +180,10 @@ audience more efficiently.
 
 1. **Create a New Metric Definition**
    - Click on “New Metric Definition”.
-     - 💡 **NOTE:** If you can not see the blue "New Metric Definition" button, tre refreshing the page.  You will not be able to create a new metric definition until the presenters change your permissions on the Tableau Site.  If the button is still not showing up, you may need to change the zoom level of the window.  If having trouble please raise your hands and an RA will be around to assist.
      <p align="left">
   <img src="https://i.ibb.co/CV850vd/CREATEMETRICdefinition.jpg" alt="Tableau Cloud Login" width="100%" />
 </p>
+      - 💡 **NOTE:** If you can not see the blue "New Metric Definition" button, tre refreshing the page.  You will not be able to create a new metric definition until the presenters change your permissions on the Tableau Site.  If the button is still not showing up, you may need to change the zoom level of the window.  If having trouble please raise your hands and an RA will be around to assist.
 
    - Select the datasource from step 1b, search if needed.
         <p align="left">
@@ -368,7 +370,7 @@ You've rocked the music world by producing an EP, and now it's time to amp up yo
   - Add filters of your choice.  Here is one recommendation:
     - **Name**: Investment
     - **Description**: The investment cost of Vendor or Sponsor
-    - **Measure***: Investment
+    - **Measure**: Investment
     - **Time Dimension**: Date
     - **Adjustable metric filters**: Sponsorship Focus Area, Sponsorship Type, Product Category, Vendor/Sponsor Name
 
@@ -383,7 +385,8 @@ You've rocked the music world by producing an EP, and now it's time to amp up yo
     </tr>
 </table>
 
-- **Important**: Be sure to **Follow** any of the metrics you create. Many others will also be creating metrics, so it could get crowded at the moment. Name metrics with your initials to keep them organized.
+-  Click on **Save Definition** to save your Investment Metric.
+- 💡 **Important Note**: Be sure to **Follow** any of the metrics you create. Many others will also be creating metrics, so it could get crowded at the moment. Name metrics with your initials to keep them organized.
 <p align="left">
   <img src="https://i.ibb.co/kcVQp5y/digest.png" alt="Tableau Cloud Login" width="100%" />
 </p>
