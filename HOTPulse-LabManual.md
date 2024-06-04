@@ -1,16 +1,15 @@
 # Hello Data Rockstar! 🌟
 
-Welcome to your lab environment. 🧪
-
-To make the most of this Hands on Training Session, please follow the exercises outlined in this lab manual. Each exercise is designed to help you apply what you've learned in a practical setting and gain valuable hands-on experience.
-
-First we will need to sign into Tableau Cloud... Please open an internet browser and navigate to: [online.tableau.com](https://online.tableau.com)
-
+Welcome to the Tableau Pulse hands on training lab manual! The only other thing you will need to complete this hands on workshop is a datasource for Exercise 3 found [In This Folder](https://github.com/JtabZ/HOTPulse/tree/main/Exercise%203%20Data%20Sources).
 
 <div style="background-color: #; padding: 10px; border-left: 5px solid #ccc;">
   💡 <strong>NOTE:</strong> Tableau Cloud Credentials will be given to you during the introductory housekeeping of this workshop.  We will be assigning you a DataDazzler email account and password to complete the hands on portion of this training.
 </div>
 <br>
+
+First we will need to sign into Tableau Cloud... Please open an internet browser and navigate to: [online.tableau.com](https://online.tableau.com).  If you are already signed into Tableau Cloud you may need to sign out or use an Incognito window instead.  Ask your breakout room assistant for help if needed.
+
+
 Once you navigate to Tableau Cloud homepage you will be met with a login screen. Please enter your assigned username. 
 <p align="left">
   <img src="https://i.ibb.co/JpMqY7g/tabcloudlogin2.png" alt="Tableau Cloud Login" width="50%" />
@@ -37,7 +36,7 @@ As an emerging artist you have been focusing all of your energy into your passio
 Explore your artist metrics through **Tableau Pulse** to discover who your fans are and what resonates with them. Your findings will help shape your future marketing and engagement strategies.
 
 ## Instructions
-Follow the following clues and uncover the answers using Tableau Pulse metrics. There are hints there if you need assistance. Be sure to keep track of your responses and submit this [Google Form](https://forms.gle/VzPqCjF6imffpvxu6)(no sign in required!). There may be a surprise for the first few submissions with correct answers 👀
+Follow the following clues and uncover the answers using Tableau Pulse metrics. There are hints there if you need assistance. Be sure to take note of your answers to the Clues... We will be going over the answers! 
 
 <details>
   <summary>💡 Exercise Hint</summary>
@@ -49,7 +48,7 @@ Open **Tableau Pulse** once logged in.  Find and Click on **Tableau Pulse** in t
   <img src="https://i.ibb.co/FY5dr0C/pulsehomepage.jpg" alt="Tableau Cloud Login" width="40%" />
 </p>
 
-Follow the clues provided below and use **Tableau Pulse** to uncover the answers. Keep track of your responses in this [Google Form](https://forms.gle/VzPqCjF6imffpvxu6)
+Follow the clues provided below and use **Tableau Pulse** to uncover the answers. Keep track of your answers.
 
 <p align="Left">
   <img src="https://i.ibb.co/TP4PHJD/metricanatomy.png" alt="Tableau Cloud Login" width="100%" />
@@ -57,16 +56,15 @@ Follow the clues provided below and use **Tableau Pulse** to uncover the answers
 
 ### Clue 1: Kickoff to Fan Engagement
 
-Where fans gather, the stars align. Begin where conversations ignite. **Find the date** when the spotlight began to shine and **streams** began to soar. *(This should be submitted in the format of mm/dd/yyyy)*
+Where fans gather, the stars align. Begin where conversations ignite. **Find the date** when the spotlight began to shine and **streams** began to soar. 
 
 <details>
   <summary>💡 <strong>HINT 1</strong></summary>
-  <p>Click on the <strong>Streams</strong> metric and scroll to the <strong>>Trends and Outliers section</strong> to observe the trend</p>
+  <p>Click on the <strong>Streams</strong> metric and scroll to the <strong>Sparkline</strong> to observe when a spike occurs. </p>
 </details>
   <details>
   <summary>💡 <strong>HINT 2</strong></summary>
-  <p>If a trend line does not appear, click the <strong>Ask button</strong> and ask “Does Streams have a new trend?”</p>
-  <img src="https://i.ibb.co/7JbdTB9/askbutton.png" alt="Tableau Cloud Login" width="10%" />
+  <p>You can hover over the <strong>Sparkline</strong> to get the date information.
 </details>
 
 ### Clue 2: Rhythms of Streaming Success
@@ -134,7 +132,7 @@ Trendsetters tune the public’s ear, making hits appear. Enter **Influencer Eng
 
 <br>
 
-**🎊 WOOOHOOO! You’ve completed the scavenger hunt! Remember to submit your answers [Here](https://forms.gle/VzPqCjF6imffpvxu6)**
+**🎊 WOOOHOOO! You’ve completed the scavenger hunt!**
 <br>
 
 <p align="center" style="color: red; font-size: 20px;">
@@ -181,11 +179,15 @@ Embrace your new role, harness the data, and start making musical metrics!
      <p align="left">
   <img src="https://i.ibb.co/CV850vd/CREATEMETRICdefinition.jpg" alt="Tableau Cloud Login" width="100%" />
 </p>
-      - 💡 **NOTE:** If you can not see the blue "New Metric Definition" button, tre refreshing the page.  You will not be able to create a new metric definition until the presenters change your permissions on the Tableau Site.  If the button is still not showing up, you may need to change the zoom level of the window.  If having trouble please raise your hands and an RA will be around to assist.
+
+<div style="background-color: #; padding: 10px; border-left: 5px solid #ccc;">
+  💡 <strong>NOTE:</strong> If you can not see the blue "New Metric Definition" button, try refreshing the page.  You will not be able to create a new metric definition until the presenters change your permissions on the Tableau Site.  If the button is still not showing up, you may need to change the zoom level of the browser window.  
+</div>
+  
 
    - Select the datasource from step 1b, search if needed.
         <p align="left">
-  <img src="https://i.ibb.co/5rXrxrj/Select-Data-Source.jpg" alt="Tableau Cloud Login" width="100%" />
+  <img src="https://i.ibb.co/2hSWZjn/musicproductiongrab.jpg" alt="Tableau Cloud Login" width="100%" />
 </p>
 
    - **Metric Definition Setup**:
@@ -230,7 +232,7 @@ Embrace your new role, harness the data, and start making musical metrics!
 <br>
 
 1. **Follow, Adjust, and Ask**
-   - 💡 **NOTE:** The screenshots in the lab manual were taken at an earlier date, please note that the numbers, and dates in the screenshots may not match perfectly to what you see on screen.  The click path and options will all remain the same.
+   - 💡 **NOTE:** Some of the screenshots in the lab manual were taken at an earlier date, please note that the numbers, and dates in the screenshots may not match perfectly to what you see on your screen.  The click path and instructions will remain the same.
 
   - **Follow the Spend Metric**.
         <p align="left">
@@ -239,7 +241,7 @@ Embrace your new role, harness the data, and start making musical metrics!
 
    - Click **Breakdown**.
             <p align="left">
-  <img src="https://i.ibb.co/3zwz28k/breakdown.jpg" alt="Tableau Cloud Login" width="100%" />
+  <img src="https://i.ibb.co/54vWWKv/newbreakdown.jpg" alt="Tableau Cloud Login" width="100%" />
 </p>
 
   - Notice the **listener age group** and analyze breakdown.
@@ -248,15 +250,15 @@ Embrace your new role, harness the data, and start making musical metrics!
    - **Ask Followup Questions**:
      - Click on “Which listener Age Group increased the most?” and take a look at the answer
             <p align="left">
-  <img src="https://i.ibb.co/NVycMnw/question1.jpg" alt="Tableau Cloud Login" width="90%" />
+  <img src="https://i.ibb.co/TW3zVNn/newquestion.jpg" alt="Tableau Cloud Login" width="90%" />
 </p>
 
-   - Click on “Which Campaign Type decreased the most?” and check out the answer.
+   - Click on “Which Geographical Location had low Spend?” and check out the answer.
      - 💡 **NOTE:** If you do not see the questions mentioned above, please try any similar followup question presented. The questions, and order of the questions are determined by adjustable metric filters.
 
    - Click on “ASK” and type “Is there a new trend?”
           <p align="left">
-  <img src="https://i.ibb.co/mDrrjyz/ask.jpg" alt="Tableau Cloud Login" width="90%" />
+  <img src="https://i.ibb.co/SvTSBSN/newask.jpg" alt="Tableau Cloud Login" width="90%" />
 </p>
   
    - Feel free to click on a few additional generated questions if you would like. Reflect on what you have learned about the metric you just created and let's move on to creating a related metric.
@@ -305,6 +307,8 @@ Create more metrics from the Music Production data source... Download counts, en
 You've rocked the music world by producing an EP, and now it's time to amp up your game as a Festival Planner! Dive into the vibrant and exhilarating world of music festivals, where you'll be the maestro behind the scenes. Armed with **Tableau Pulse**, you're set to masterfully coordinate sponsorship and ROI, handpick stellar artists, and craft marketing strategies that strike a chord with fans far and wide. 
 
 ## Publish a Data Source using Tableau Cloud
+- The first thing you are going to need is to download the Datasource for upload.  
+- You can [Download the Data Source Here](https://github.com/JtabZ/HOTPulse/tree/main/Exercise%203%20Data%20Sources) (if you have trouble accessing or downloading let your room assistant know and we will provide another link)
 - Navigate back to **Tableau Cloud** from **Tableau Pulse**.
 <p align="left">
   <img src="https://i.ibb.co/0MfXSQS/backtocloud23.jpg" alt="Tableau Cloud Login" width="75%" />
@@ -326,17 +330,7 @@ You've rocked the music world by producing an EP, and now it's time to amp up yo
   <img src="https://i.ibb.co/0CVQv5q/connecttodatawindow.jpg" alt="Tableau Cloud Login" width="100%" />
 </p>
 
-- Locate the data files in the desktop folder.
-<table width="100%" cellpadding="0" cellspacing="0">
-    <tr>
-        <td style="width: 50%; padding-right: 5px;">
-            <img src="https://i.ibb.co/VC9TJrz/festivaldatafolder.jpg" alt="Tableau Cloud Login" width="100%" />
-        </td>
-        <td style="width: 50%; padding-left: 5px;">
-            <img src="https://i.ibb.co/M8N5w1Z/festivaldatafolder2.jpg" alt="Tableau Cloud Login" width="100%" />
-        </td>
-    </tr>
-</table>
+- Locate the Vendor Sponsor and ROI.csv file you downloaded to your computer.  You will very likely find it in the "Downloads" folder. Wait for the datasource to upload and wait for the preview.
 
 - Click **File > Publish**.
     <p align="left">
