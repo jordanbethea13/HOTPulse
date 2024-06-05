@@ -3,16 +3,14 @@
 Welcome to the Tableau Pulse hands on training lab manual! The only other thing you will need to complete this hands on workshop is a datasource for Exercise 3 found [In This Folder](https://github.com/JtabZ/HOTPulse/tree/main/Exercise%203%20Data%20Sources).
 
 <div style="background-color: #; padding: 10px; border-left: 5px solid #ccc;">
-  💡 <strong>NOTE:</strong> Tableau Cloud Credentials will be given to you during the introductory p[ortion of the breakout rooms.  We will be assigning you a DataDazzler account and password to complete the hands on portion of this training.
+  💡 <strong>NOTE:</strong> Tableau Cloud Credentials will be given to you during the breakout rooms.  We will be assigning you a DataDazzler account and password to complete this training.
 </div>
 <br>
 
 First we will need to sign into Tableau Cloud... Please open an internet browser and navigate to: [online.tableau.com](https://online.tableau.com). 
-
-<div style="background-color: #; padding: 10px; border-left: 5px solid #ccc;">
-  💡 <strong>NOTE:</strong> If you are having trouble signing in or are already signed into Tableau Cloud in your browser, try an incognito tab or window on your browser.  If you need help ask the breakout room assistant.
-</div>
 <br>
+<br>
+If you are having trouble signing in or are already signed into Tableau Cloud in your browser, try an incognito tab or window on your browser.  If you need help ask the breakout room assistant.
 
 
 Once you navigate to Tableau Cloud homepage you will be met with a login screen. Please enter your assigned username. 
