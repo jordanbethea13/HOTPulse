@@ -1,6 +1,6 @@
 # Hello Data Rockstar! 🌟
 
-Welcome to the Tableau Pulse hands on training lab manual! The only other thing you will need to complete this hands on workshop is a datasource for Exercise 3 found [In This Folder](https://github.com/JtabZ/HOTPulse/tree/main/Exercise%203%20Data%20Sources).
+Welcome to the Tableau Pulse hands on training lab manual! The only other thing you will need to complete this hands on workshop is a datasource for Exercise 3 found [In This Folder](https://drive.google.com/drive/folders/1hP3vqRY8k5RflIDhK6OPSLRRZ_vjxCSz).
 
 <div style="background-color: #; padding: 10px; border-left: 5px solid #ccc;">
   💡 <strong>NOTE:</strong> Tableau Cloud Credentials will be given to you during the breakout rooms.  We will be assigning you a DataDazzler account and password to complete this training.
@@ -312,7 +312,7 @@ You've rocked the music world by producing an EP, and now it's time to amp up yo
 
 ## Publish a Data Source using Tableau Cloud
 - The first thing you are going to need is to download the Datasource for upload.  
-- You can [Download the Data Source Here](https://github.com/JtabZ/HOTPulse/tree/main/Exercise%203%20Data%20Sources) (if you have trouble accessing or downloading let your room assistant know and we will provide another link)
+- You can [Download the Data Source Here](https://drive.google.com/drive/folders/1hP3vqRY8k5RflIDhK6OPSLRRZ_vjxCSz) (if you have trouble accessing or downloading let your room assistant know and we will provide another link)
 - Navigate back to **Tableau Cloud** from **Tableau Pulse**.
 <p align="left">
   <img src="https://i.ibb.co/0MfXSQS/backtocloud23.jpg" alt="Tableau Cloud Login" width="75%" />
